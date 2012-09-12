@@ -1,8 +1,8 @@
 #AppleScript for Coda 2
 Coda2用のAppleScriptです。
 
-##Open Merked
-編集中のファイルをMerkedで開くAppleScript。
+##Open Marked
+編集中のファイルをMarkedで開くAppleScript。
 
 ##Author
 Twitter: [@moi_fc2](https://twitter.com/moi_fc2)
